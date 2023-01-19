@@ -1,1 +1,3 @@
 He aprendido a eliminar archivos en GIT
+hola
+Mejorando mis habilidades
